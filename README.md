@@ -9,7 +9,17 @@
 <div align="left">
 <details>
   <summary><h3>How to use</h3></summary>
-    
+
+  <hr>
+
+  <img src="https://github.com/ErickDaniel7/wallpaper-day/blob/main/IMG/update-readme-image_post.png">
+
+  <hr>
+
+  <img src="https://github.com/ErickDaniel7/wallpaper-day/blob/main/IMG/Screenshot_1.png">
+
+  <hr>
+
 ## Random Image (from a collection of given images) on your (Profile) Readme
 
 ### How To Use This Action
@@ -241,6 +251,6 @@ python -m unittest discover
 
 ---
 
-#### Another intriguing action you would want to use - [quote-readme](https://github.com/marketplace/actions/quote-readme)
+#### Another intriguing action you would want to use - [quote-readme](https://github.com/ErickDaniel7/quote)
 
 #### If you liked this Action and want to contribute to upgrade this utility, please create an issue or throw a PR !

@@ -1,7 +1,7 @@
 <div align="center"><h3>🌠 Wallpaper of the Day</h3></div><br>
 
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/tacosauceninja-remembering.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/hangmoon-alexander-komarov-white-blue-red-clouds.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 ```
 

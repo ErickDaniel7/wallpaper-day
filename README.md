@@ -1,7 +1,7 @@
 <div align="center"><h3>🌠 Wallpaper of the Day</h3></div><br>
 
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/dpcdpc11-exodus.png height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/ogarart-forest-sunset-2019-01-25.png height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 ```
 

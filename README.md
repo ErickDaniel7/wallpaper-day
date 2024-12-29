@@ -1,7 +1,7 @@
 <div align="center"><h3>🌠 Wallpaper of the Day</h3></div><br>
 
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-firewatch-red.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/darkkal44-come-with-me-surfaces.png height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 ```
 
